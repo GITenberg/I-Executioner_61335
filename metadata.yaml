@@ -1,0 +1,26 @@
+_repo: I-Executioner_61335
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: White, Ted
+    gutenberg_agent_id: '51368'
+    url: http://www.gutenberg.org/2009/agents/51368
+  - agent_name: Carr, Terry Gene
+    birthdate: 1937
+    deathdate: 1987
+    gutenberg_agent_id: '7721'
+    url: http://www.gutenberg.org/2009/agents/7721
+    wikipedia: http://en.wikipedia.org/wiki/Terry_Carr
+description: ''
+gutenberg_issued: '2020-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: I, Executioner
+url: http://www.gutenberg.org/ebooks/61335
